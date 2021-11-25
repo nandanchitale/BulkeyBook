@@ -1,0 +1,17 @@
+G:\Study\Learning\asp.net\Udemy course\NandanLocal\BulkyBook.DataAccess\bin\Release\net6.0\BulkyBook.DataAccess.deps.json
+G:\Study\Learning\asp.net\Udemy course\NandanLocal\BulkyBook.DataAccess\bin\Release\net6.0\BulkyBook.DataAccess.runtimeconfig.json
+G:\Study\Learning\asp.net\Udemy course\NandanLocal\BulkyBook.DataAccess\bin\Release\net6.0\BulkyBook.DataAccess.dll
+G:\Study\Learning\asp.net\Udemy course\NandanLocal\BulkyBook.DataAccess\bin\Release\net6.0\ref\BulkyBook.DataAccess.dll
+G:\Study\Learning\asp.net\Udemy course\NandanLocal\BulkyBook.DataAccess\bin\Release\net6.0\BulkyBook.DataAccess.pdb
+G:\Study\Learning\asp.net\Udemy course\NandanLocal\BulkyBook.DataAccess\bin\Release\net6.0\BulkyBook.Models.dll
+G:\Study\Learning\asp.net\Udemy course\NandanLocal\BulkyBook.DataAccess\bin\Release\net6.0\BulkyBook.Models.pdb
+G:\Study\Learning\asp.net\Udemy course\NandanLocal\BulkyBook.DataAccess\obj\Release\net6.0\BulkyBook.DataAccess.csproj.AssemblyReference.cache
+G:\Study\Learning\asp.net\Udemy course\NandanLocal\BulkyBook.DataAccess\obj\Release\net6.0\BulkyBook.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+G:\Study\Learning\asp.net\Udemy course\NandanLocal\BulkyBook.DataAccess\obj\Release\net6.0\BulkyBook.DataAccess.AssemblyInfoInputs.cache
+G:\Study\Learning\asp.net\Udemy course\NandanLocal\BulkyBook.DataAccess\obj\Release\net6.0\BulkyBook.DataAccess.AssemblyInfo.cs
+G:\Study\Learning\asp.net\Udemy course\NandanLocal\BulkyBook.DataAccess\obj\Release\net6.0\BulkyBook.DataAccess.csproj.CoreCompileInputs.cache
+G:\Study\Learning\asp.net\Udemy course\NandanLocal\BulkyBook.DataAccess\obj\Release\net6.0\BulkyBook.DataAccess.csproj.CopyComplete
+G:\Study\Learning\asp.net\Udemy course\NandanLocal\BulkyBook.DataAccess\obj\Release\net6.0\BulkyBook.DataAccess.dll
+G:\Study\Learning\asp.net\Udemy course\NandanLocal\BulkyBook.DataAccess\obj\Release\net6.0\ref\BulkyBook.DataAccess.dll
+G:\Study\Learning\asp.net\Udemy course\NandanLocal\BulkyBook.DataAccess\obj\Release\net6.0\BulkyBook.DataAccess.pdb
+G:\Study\Learning\asp.net\Udemy course\NandanLocal\BulkyBook.DataAccess\obj\Release\net6.0\BulkyBook.DataAccess.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2325885f-51d9-4aae-a3b6-c1c4cc7bc78d": {
+      "ProjectGuid": "2325885f-51d9-4aae-a3b6-c1c4cc7bc78d",
+      "DisplayName": "BulkyBook.DataAccess",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

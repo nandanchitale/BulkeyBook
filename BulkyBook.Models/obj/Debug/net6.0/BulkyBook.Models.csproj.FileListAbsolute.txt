@@ -1,0 +1,14 @@
+G:\Study\Learning\asp.net\Udemy course\NandanLocal\BulkyBook.Models\bin\Debug\net6.0\BulkyBook.Models.deps.json
+G:\Study\Learning\asp.net\Udemy course\NandanLocal\BulkyBook.Models\bin\Debug\net6.0\BulkyBook.Models.runtimeconfig.json
+G:\Study\Learning\asp.net\Udemy course\NandanLocal\BulkyBook.Models\bin\Debug\net6.0\BulkyBook.Models.dll
+G:\Study\Learning\asp.net\Udemy course\NandanLocal\BulkyBook.Models\bin\Debug\net6.0\ref\BulkyBook.Models.dll
+G:\Study\Learning\asp.net\Udemy course\NandanLocal\BulkyBook.Models\bin\Debug\net6.0\BulkyBook.Models.pdb
+G:\Study\Learning\asp.net\Udemy course\NandanLocal\BulkyBook.Models\obj\Debug\net6.0\BulkyBook.Models.csproj.AssemblyReference.cache
+G:\Study\Learning\asp.net\Udemy course\NandanLocal\BulkyBook.Models\obj\Debug\net6.0\BulkyBook.Models.GeneratedMSBuildEditorConfig.editorconfig
+G:\Study\Learning\asp.net\Udemy course\NandanLocal\BulkyBook.Models\obj\Debug\net6.0\BulkyBook.Models.AssemblyInfoInputs.cache
+G:\Study\Learning\asp.net\Udemy course\NandanLocal\BulkyBook.Models\obj\Debug\net6.0\BulkyBook.Models.AssemblyInfo.cs
+G:\Study\Learning\asp.net\Udemy course\NandanLocal\BulkyBook.Models\obj\Debug\net6.0\BulkyBook.Models.csproj.CoreCompileInputs.cache
+G:\Study\Learning\asp.net\Udemy course\NandanLocal\BulkyBook.Models\obj\Debug\net6.0\BulkyBook.Models.dll
+G:\Study\Learning\asp.net\Udemy course\NandanLocal\BulkyBook.Models\obj\Debug\net6.0\ref\BulkyBook.Models.dll
+G:\Study\Learning\asp.net\Udemy course\NandanLocal\BulkyBook.Models\obj\Debug\net6.0\BulkyBook.Models.pdb
+G:\Study\Learning\asp.net\Udemy course\NandanLocal\BulkyBook.Models\obj\Debug\net6.0\BulkyBook.Models.genruntimeconfig.cache

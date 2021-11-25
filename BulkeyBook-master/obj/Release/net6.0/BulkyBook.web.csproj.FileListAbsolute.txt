@@ -1,0 +1,9 @@
+G:\Study\Learning\asp.net\Udemy course\NandanLocal\BulkeyBook-master\obj\Release\net6.0\BulkyBook.web.csproj.AssemblyReference.cache
+G:\Study\Learning\asp.net\Udemy course\NandanLocal\BulkeyBook-master\obj\Release\net6.0\BulkyBook.web.GeneratedMSBuildEditorConfig.editorconfig
+G:\Study\Learning\asp.net\Udemy course\NandanLocal\BulkeyBook-master\obj\Release\net6.0\BulkyBook.web.AssemblyInfoInputs.cache
+G:\Study\Learning\asp.net\Udemy course\NandanLocal\BulkeyBook-master\obj\Release\net6.0\BulkyBook.web.AssemblyInfo.cs
+G:\Study\Learning\asp.net\Udemy course\NandanLocal\BulkeyBook-master\obj\Release\net6.0\BulkyBook.web.csproj.CoreCompileInputs.cache
+G:\Study\Learning\asp.net\Udemy course\NandanLocal\BulkeyBook-master\obj\Release\net6.0\BulkyBook.web.MvcApplicationPartsAssemblyInfo.cs
+G:\Study\Learning\asp.net\Udemy course\NandanLocal\BulkeyBook-master\obj\Release\net6.0\BulkyBook.web.MvcApplicationPartsAssemblyInfo.cache
+G:\Study\Learning\asp.net\Udemy course\NandanLocal\BulkeyBook-master\obj\Release\net6.0\BulkyBook.web.RazorAssemblyInfo.cache
+G:\Study\Learning\asp.net\Udemy course\NandanLocal\BulkeyBook-master\obj\Release\net6.0\BulkyBook.web.RazorAssemblyInfo.cs

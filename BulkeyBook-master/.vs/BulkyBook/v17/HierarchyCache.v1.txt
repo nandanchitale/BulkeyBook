@@ -1,0 +1,607 @@
+﻿++Solution 'BulkyBook' ‎(4 of 4 projects)
+i:{00000000-0000-0000-0000-000000000000}:BulkyBook.sln
+++BulkyBook.DataAccess
+i:{00000000-0000-0000-0000-000000000000}:BulkyBook.DataAccess
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkybook.dataaccess\bin\debug\net6.0\bulkybook.dataaccess.dll
+++Dependencies
+i:{4aee1f09-28f7-4a8b-9bca-78ef96f8e3df}:>812
+i:{4049d552-20ee-4870-84fa-a1683b81eaf3}:>816
+i:{25f78959-a91c-4877-9020-30bdac06790e}:>815
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:>1365
+++Data
+i:{4aee1f09-28f7-4a8b-9bca-78ef96f8e3df}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkybook.dataaccess\data\
+++ApplicationDbContext.cs
+i:{4aee1f09-28f7-4a8b-9bca-78ef96f8e3df}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkybook.dataaccess\data\applicationdbcontext.cs
+++Migrations
+i:{4aee1f09-28f7-4a8b-9bca-78ef96f8e3df}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkybook.dataaccess\migrations\
+++Repository
+i:{4aee1f09-28f7-4a8b-9bca-78ef96f8e3df}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkybook.dataaccess\repository\
+++Analyzers
+i:{4aee1f09-28f7-4a8b-9bca-78ef96f8e3df}:analyzers
+i:{4049d552-20ee-4870-84fa-a1683b81eaf3}:analyzers
+i:{25f78959-a91c-4877-9020-30bdac06790e}:analyzers
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:analyzers
+++Frameworks
+i:{4aee1f09-28f7-4a8b-9bca-78ef96f8e3df}:frameworks
+i:{4049d552-20ee-4870-84fa-a1683b81eaf3}:frameworks
+i:{25f78959-a91c-4877-9020-30bdac06790e}:frameworks
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:frameworks
+++Packages
+i:{4aee1f09-28f7-4a8b-9bca-78ef96f8e3df}:packages
+i:{4049d552-20ee-4870-84fa-a1683b81eaf3}:packages
+i:{25f78959-a91c-4877-9020-30bdac06790e}:packages
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:packages
+++Projects
+i:{4aee1f09-28f7-4a8b-9bca-78ef96f8e3df}:projects
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:projects
+++20211122094400_categoryModelUpdateMigration.cs
+i:{4aee1f09-28f7-4a8b-9bca-78ef96f8e3df}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkybook.dataaccess\migrations\20211122094400_categorymodelupdatemigration.cs
+++ApplicationDbContextModelSnapshot.cs
+i:{4aee1f09-28f7-4a8b-9bca-78ef96f8e3df}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkybook.dataaccess\migrations\applicationdbcontextmodelsnapshot.cs
+++IRepository
+i:{4aee1f09-28f7-4a8b-9bca-78ef96f8e3df}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkybook.dataaccess\repository\irepository\
+++CategoryRepository.cs
+i:{4aee1f09-28f7-4a8b-9bca-78ef96f8e3df}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkybook.dataaccess\repository\categoryrepository.cs
+++CoverTypeRepository.cs
+i:{4aee1f09-28f7-4a8b-9bca-78ef96f8e3df}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkybook.dataaccess\repository\covertyperepository.cs
+++ProductRepository.cs
+i:{4aee1f09-28f7-4a8b-9bca-78ef96f8e3df}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkybook.dataaccess\repository\productrepository.cs
+++Repository.cs
+i:{4aee1f09-28f7-4a8b-9bca-78ef96f8e3df}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkybook.dataaccess\repository\repository.cs
+++UnitOfWork.cs
+i:{4aee1f09-28f7-4a8b-9bca-78ef96f8e3df}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkybook.dataaccess\repository\unitofwork.cs
+++MessagePackAnalyzer
+i:{4aee1f09-28f7-4a8b-9bca-78ef96f8e3df}:c:\users\nandan\.nuget\packages\messagepackanalyzer\2.1.152\analyzers\dotnet\messagepackanalyzer.dll
+i:{4049d552-20ee-4870-84fa-a1683b81eaf3}:c:\users\nandan\.nuget\packages\messagepackanalyzer\2.1.152\analyzers\dotnet\messagepackanalyzer.dll
+i:{25f78959-a91c-4877-9020-30bdac06790e}:c:\users\nandan\.nuget\packages\messagepackanalyzer\2.1.152\analyzers\dotnet\messagepackanalyzer.dll
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:c:\users\nandan\.nuget\packages\messagepackanalyzer\2.1.152\analyzers\dotnet\messagepackanalyzer.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{4aee1f09-28f7-4a8b-9bca-78ef96f8e3df}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+i:{4049d552-20ee-4870-84fa-a1683b81eaf3}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+i:{25f78959-a91c-4877-9020-30bdac06790e}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{4aee1f09-28f7-4a8b-9bca-78ef96f8e3df}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+i:{4049d552-20ee-4870-84fa-a1683b81eaf3}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+i:{25f78959-a91c-4877-9020-30bdac06790e}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.CodeAnalysis.Analyzers
+i:{4aee1f09-28f7-4a8b-9bca-78ef96f8e3df}:c:\users\nandan\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
+i:{4049d552-20ee-4870-84fa-a1683b81eaf3}:c:\users\nandan\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
+i:{25f78959-a91c-4877-9020-30bdac06790e}:c:\users\nandan\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:c:\users\nandan\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.Analyzers
+i:{4aee1f09-28f7-4a8b-9bca-78ef96f8e3df}:c:\users\nandan\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
+i:{4049d552-20ee-4870-84fa-a1683b81eaf3}:c:\users\nandan\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
+i:{25f78959-a91c-4877-9020-30bdac06790e}:c:\users\nandan\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:c:\users\nandan\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{4aee1f09-28f7-4a8b-9bca-78ef96f8e3df}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{4049d552-20ee-4870-84fa-a1683b81eaf3}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{25f78959-a91c-4877-9020-30bdac06790e}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{4aee1f09-28f7-4a8b-9bca-78ef96f8e3df}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{4049d552-20ee-4870-84fa-a1683b81eaf3}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{25f78959-a91c-4877-9020-30bdac06790e}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{4aee1f09-28f7-4a8b-9bca-78ef96f8e3df}:c:\users\nandan\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.0\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{4049d552-20ee-4870-84fa-a1683b81eaf3}:c:\users\nandan\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.0\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{25f78959-a91c-4877-9020-30bdac06790e}:c:\users\nandan\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.0\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:c:\users\nandan\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.0\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{4aee1f09-28f7-4a8b-9bca-78ef96f8e3df}:c:\users\nandan\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{4049d552-20ee-4870-84fa-a1683b81eaf3}:c:\users\nandan\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{25f78959-a91c-4877-9020-30bdac06790e}:c:\users\nandan\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++System.Text.Json.SourceGeneration
+i:{4aee1f09-28f7-4a8b-9bca-78ef96f8e3df}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.0\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{4049d552-20ee-4870-84fa-a1683b81eaf3}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.0\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{25f78959-a91c-4877-9020-30bdac06790e}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.0\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.0\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.NETCore.App
+i:{4aee1f09-28f7-4a8b-9bca-78ef96f8e3df}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkybook.dataaccess\microsoft.netcore.app
+i:{4049d552-20ee-4870-84fa-a1683b81eaf3}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkybook.models\microsoft.netcore.app
+i:{25f78959-a91c-4877-9020-30bdac06790e}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkybook.utility\microsoft.netcore.app
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\microsoft.netcore.app
+++Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore (6.0.0)
+i:{4aee1f09-28f7-4a8b-9bca-78ef96f8e3df}:>1619
+i:{4049d552-20ee-4870-84fa-a1683b81eaf3}:>1616
+i:{25f78959-a91c-4877-9020-30bdac06790e}:>1615
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:>1620
+++Microsoft.AspNetCore.Identity (2.2.0)
+i:{4aee1f09-28f7-4a8b-9bca-78ef96f8e3df}:>1417
+i:{4049d552-20ee-4870-84fa-a1683b81eaf3}:>1389
+i:{25f78959-a91c-4877-9020-30bdac06790e}:>1376
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:>1447
+++Microsoft.AspNetCore.Identity.EntityFrameworkCore (6.0.0)
+i:{4aee1f09-28f7-4a8b-9bca-78ef96f8e3df}:>1458
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:>1448
+++Microsoft.EntityFrameworkCore (6.0.0)
+i:{4aee1f09-28f7-4a8b-9bca-78ef96f8e3df}:>1414
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:>1444
+++Microsoft.EntityFrameworkCore.Design (6.0.0)
+i:{4aee1f09-28f7-4a8b-9bca-78ef96f8e3df}:>1416
+i:{4049d552-20ee-4870-84fa-a1683b81eaf3}:>1388
+i:{25f78959-a91c-4877-9020-30bdac06790e}:>1375
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:>1446
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.0)
+i:{4aee1f09-28f7-4a8b-9bca-78ef96f8e3df}:>1415
+i:{4049d552-20ee-4870-84fa-a1683b81eaf3}:>1387
+i:{25f78959-a91c-4877-9020-30bdac06790e}:>1374
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:>1445
+++Microsoft.EntityFrameworkCore.Tools (6.0.0)
+i:{4aee1f09-28f7-4a8b-9bca-78ef96f8e3df}:>1419
+i:{4049d552-20ee-4870-84fa-a1683b81eaf3}:>1392
+i:{25f78959-a91c-4877-9020-30bdac06790e}:>1378
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:>1450
+++Microsoft.Extensions.Identity.Stores (6.0.0)
+i:{4aee1f09-28f7-4a8b-9bca-78ef96f8e3df}:>1421
+i:{4049d552-20ee-4870-84fa-a1683b81eaf3}:>1394
+i:{25f78959-a91c-4877-9020-30bdac06790e}:>1380
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:>1454
+++Microsoft.VisualStudio.Web.CodeGeneration.Design (6.0.0)
+i:{4aee1f09-28f7-4a8b-9bca-78ef96f8e3df}:>1627
+i:{4049d552-20ee-4870-84fa-a1683b81eaf3}:>1626
+i:{25f78959-a91c-4877-9020-30bdac06790e}:>1625
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:>1452
+++Npgsql.EntityFrameworkCore.PostgreSQL (6.0.0)
+i:{4aee1f09-28f7-4a8b-9bca-78ef96f8e3df}:>1418
+i:{4049d552-20ee-4870-84fa-a1683b81eaf3}:>1390
+i:{25f78959-a91c-4877-9020-30bdac06790e}:>1377
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:>1449
+++System.Data.Odbc (6.0.0)
+i:{4aee1f09-28f7-4a8b-9bca-78ef96f8e3df}:>1420
+i:{4049d552-20ee-4870-84fa-a1683b81eaf3}:>1393
+i:{25f78959-a91c-4877-9020-30bdac06790e}:>1379
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:>1451
+++BulkyBook.Models
+i:{4aee1f09-28f7-4a8b-9bca-78ef96f8e3df}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkybook.models\bin\debug\net6.0\bulkybook.models.dll
+i:{00000000-0000-0000-0000-000000000000}:BulkyBook.Models
+++20211122094400_categoryModelUpdateMigration.Designer.cs
+i:{4aee1f09-28f7-4a8b-9bca-78ef96f8e3df}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkybook.dataaccess\migrations\20211122094400_categorymodelupdatemigration.designer.cs
+++ICategoryRepository.cs
+i:{4aee1f09-28f7-4a8b-9bca-78ef96f8e3df}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkybook.dataaccess\repository\irepository\icategoryrepository.cs
+++ICoverTypeRepository.cs
+i:{4aee1f09-28f7-4a8b-9bca-78ef96f8e3df}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkybook.dataaccess\repository\irepository\icovertyperepository.cs
+++IProductRepository.cs
+i:{4aee1f09-28f7-4a8b-9bca-78ef96f8e3df}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkybook.dataaccess\repository\irepository\iproductrepository.cs
+++IRepository.cs
+i:{4aee1f09-28f7-4a8b-9bca-78ef96f8e3df}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkybook.dataaccess\repository\irepository\irepository.cs
+++IUnitOfWork.cs
+i:{4aee1f09-28f7-4a8b-9bca-78ef96f8e3df}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkybook.dataaccess\repository\irepository\iunitofwork.cs
+++ViewModels
+i:{4049d552-20ee-4870-84fa-a1683b81eaf3}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkybook.models\viewmodels\
+++Category.cs
+i:{4049d552-20ee-4870-84fa-a1683b81eaf3}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkybook.models\category.cs
+++CoverType.cs
+i:{4049d552-20ee-4870-84fa-a1683b81eaf3}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkybook.models\covertype.cs
+++ErrorViewModel.cs
+i:{4049d552-20ee-4870-84fa-a1683b81eaf3}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkybook.models\errorviewmodel.cs
+++Products.cs
+i:{4049d552-20ee-4870-84fa-a1683b81eaf3}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkybook.models\products.cs
+++ShoppingCart.cs
+i:{4049d552-20ee-4870-84fa-a1683b81eaf3}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkybook.models\shoppingcart.cs
+++ProductViewModel.cs
+i:{4049d552-20ee-4870-84fa-a1683b81eaf3}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkybook.models\viewmodels\productviewmodel.cs
+++Microsoft.AspNetCore.Mvc.ViewFeatures (2.2.0)
+i:{4049d552-20ee-4870-84fa-a1683b81eaf3}:>1391
+++BulkyBook.Utility
+i:{00000000-0000-0000-0000-000000000000}:BulkyBook.Utility
+++SD.cs
+i:{25f78959-a91c-4877-9020-30bdac06790e}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkybook.utility\sd.cs
+++BulkyBook.web
+i:{00000000-0000-0000-0000-000000000000}:BulkyBook.web
+++Connected Services 
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:>1366
+++Properties
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\properties\
+++wwwroot
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\wwwroot\
+++css
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\wwwroot\css\
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\wwwroot\lib\bootstrap\dist\css\
+++images
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\wwwroot\images\
+++js
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\wwwroot\js\
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\wwwroot\lib\bootstrap\dist\js\
+++lib
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\wwwroot\lib\
+++favicon.ico
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\wwwroot\favicon.ico
+++Areas
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\areas\
+++Admin
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\areas\admin\
+++Controllers
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\areas\admin\controllers\
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\areas\customer\controllers\
+++Views
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\areas\admin\views\
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\views\
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\areas\customer\views\
+++Customer
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\areas\customer\
+++Identity
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\areas\identity\
+++Pages
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\areas\identity\pages\
+++Account
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\areas\identity\pages\account\
+++Manage
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\areas\identity\pages\account\manage\
+++_Layout.cshtml
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\areas\identity\pages\account\manage\_layout.cshtml
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\views\shared\_layout.cshtml
+++_ManageNav.cshtml
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\areas\identity\pages\account\manage\_managenav.cshtml
+++_StatusMessage.cshtml
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\areas\identity\pages\account\manage\_statusmessage.cshtml
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\areas\identity\pages\account\_statusmessage.cshtml
+++_ViewImports.cshtml
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\areas\identity\pages\account\manage\_viewimports.cshtml
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\areas\identity\pages\account\_viewimports.cshtml
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\areas\identity\pages\_viewimports.cshtml
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\views\_viewimports.cshtml
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\areas\admin\views\_viewimports.cshtml
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\areas\customer\views\_viewimports.cshtml
+++ChangePassword.cshtml
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\areas\identity\pages\account\manage\changepassword.cshtml
+++DeletePersonalData.cshtml
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\areas\identity\pages\account\manage\deletepersonaldata.cshtml
+++Disable2fa.cshtml
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\areas\identity\pages\account\manage\disable2fa.cshtml
+++DownloadPersonalData.cshtml
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\areas\identity\pages\account\manage\downloadpersonaldata.cshtml
+++Email.cshtml
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\areas\identity\pages\account\manage\email.cshtml
+++EnableAuthenticator.cshtml
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\areas\identity\pages\account\manage\enableauthenticator.cshtml
+++ExternalLogins.cshtml
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\areas\identity\pages\account\manage\externallogins.cshtml
+++GenerateRecoveryCodes.cshtml
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\areas\identity\pages\account\manage\generaterecoverycodes.cshtml
+++Index.cshtml
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\areas\identity\pages\account\manage\index.cshtml
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\areas\admin\views\category\index.cshtml
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\areas\admin\views\covertype\index.cshtml
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\areas\admin\views\product\index.cshtml
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\areas\customer\views\home\index.cshtml
+++ManageNavPages.cs
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\areas\identity\pages\account\manage\managenavpages.cs
+++PersonalData.cshtml
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\areas\identity\pages\account\manage\personaldata.cshtml
+++ResetAuthenticator.cshtml
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\areas\identity\pages\account\manage\resetauthenticator.cshtml
+++SetPassword.cshtml
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\areas\identity\pages\account\manage\setpassword.cshtml
+++ShowRecoveryCodes.cshtml
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\areas\identity\pages\account\manage\showrecoverycodes.cshtml
+++TwoFactorAuthentication.cshtml
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\areas\identity\pages\account\manage\twofactorauthentication.cshtml
+++AccessDenied.cshtml
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\areas\identity\pages\account\accessdenied.cshtml
+++ConfirmEmail.cshtml
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\areas\identity\pages\account\confirmemail.cshtml
+++ConfirmEmailChange.cshtml
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\areas\identity\pages\account\confirmemailchange.cshtml
+++ExternalLogin.cshtml
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\areas\identity\pages\account\externallogin.cshtml
+++ForgotPassword.cshtml
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\areas\identity\pages\account\forgotpassword.cshtml
+++ForgotPasswordConfirmation.cshtml
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\areas\identity\pages\account\forgotpasswordconfirmation.cshtml
+++Lockout.cshtml
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\areas\identity\pages\account\lockout.cshtml
+++Login.cshtml
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\areas\identity\pages\account\login.cshtml
+++LoginWith2fa.cshtml
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\areas\identity\pages\account\loginwith2fa.cshtml
+++LoginWithRecoveryCode.cshtml
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\areas\identity\pages\account\loginwithrecoverycode.cshtml
+++Logout.cshtml
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\areas\identity\pages\account\logout.cshtml
+++Register.cshtml
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\areas\identity\pages\account\register.cshtml
+++RegisterConfirmation.cshtml
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\areas\identity\pages\account\registerconfirmation.cshtml
+++ResendEmailConfirmation.cshtml
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\areas\identity\pages\account\resendemailconfirmation.cshtml
+++ResetPassword.cshtml
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\areas\identity\pages\account\resetpassword.cshtml
+++ResetPasswordConfirmation.cshtml
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\areas\identity\pages\account\resetpasswordconfirmation.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\areas\identity\pages\_validationscriptspartial.cshtml
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\views\shared\_validationscriptspartial.cshtml
+++_ViewStart.cshtml
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\areas\identity\pages\_viewstart.cshtml
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\views\_viewstart.cshtml
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\areas\admin\views\_viewstart.cshtml
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\areas\customer\views\_viewstart.cshtml
+++Error.cshtml
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\areas\identity\pages\error.cshtml
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\views\shared\error.cshtml
+++Shared
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\views\shared\
+++_LoginPartial.cshtml
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\views\shared\_loginpartial.cshtml
+++_Notification.cshtml
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\views\shared\_notification.cshtml
+++appsettings.json
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\appsettings.json
+++Program.cs
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\program.cs
+++ScaffoldingReadMe.txt
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\scaffoldingreadme.txt
+++SQL Server Express LocalDB (Local) (ConnectionStrings:BulkyBookwebContextConnection)
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:>1457
+++launchSettings.json
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\properties\launchsettings.json
+++serviceDependencies.json
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\properties\servicedependencies.json
+++bootswatchtheme.css
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\wwwroot\css\bootswatchtheme.css
+++site.css
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\wwwroot\css\site.css
+++Products
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\wwwroot\images\products\
+++product.js
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\wwwroot\js\product.js
+++site.js
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\wwwroot\js\site.js
+++bootstrap
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\wwwroot\lib\bootstrap\
+++jquery
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\wwwroot\lib\jquery\
+++jquery-validation
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\wwwroot\lib\jquery-validation-unobtrusive\
+++CategoryController.cs
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\areas\admin\controllers\categorycontroller.cs
+++CoverTypeController.cs
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\areas\admin\controllers\covertypecontroller.cs
+++ProductController.cs
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\areas\admin\controllers\productcontroller.cs
+++Category
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\areas\admin\views\category\
+++CoverType
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\areas\admin\views\covertype\
+++Product
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\areas\admin\views\product\
+++ChangePassword.cshtml.cs
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\areas\identity\pages\account\manage\changepassword.cshtml.cs
+++DeletePersonalData.cshtml.cs
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\areas\identity\pages\account\manage\deletepersonaldata.cshtml.cs
+++Disable2fa.cshtml.cs
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\areas\identity\pages\account\manage\disable2fa.cshtml.cs
+++DownloadPersonalData.cshtml.cs
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\areas\identity\pages\account\manage\downloadpersonaldata.cshtml.cs
+++Email.cshtml.cs
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\areas\identity\pages\account\manage\email.cshtml.cs
+++EnableAuthenticator.cshtml.cs
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\areas\identity\pages\account\manage\enableauthenticator.cshtml.cs
+++ExternalLogins.cshtml.cs
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\areas\identity\pages\account\manage\externallogins.cshtml.cs
+++GenerateRecoveryCodes.cshtml.cs
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\areas\identity\pages\account\manage\generaterecoverycodes.cshtml.cs
+++Index.cshtml.cs
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\areas\identity\pages\account\manage\index.cshtml.cs
+++PersonalData.cshtml.cs
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\areas\identity\pages\account\manage\personaldata.cshtml.cs
+++ResetAuthenticator.cshtml.cs
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\areas\identity\pages\account\manage\resetauthenticator.cshtml.cs
+++SetPassword.cshtml.cs
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\areas\identity\pages\account\manage\setpassword.cshtml.cs
+++ShowRecoveryCodes.cshtml.cs
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\areas\identity\pages\account\manage\showrecoverycodes.cshtml.cs
+++TwoFactorAuthentication.cshtml.cs
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\areas\identity\pages\account\manage\twofactorauthentication.cshtml.cs
+++AccessDenied.cshtml.cs
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\areas\identity\pages\account\accessdenied.cshtml.cs
+++ConfirmEmail.cshtml.cs
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\areas\identity\pages\account\confirmemail.cshtml.cs
+++ConfirmEmailChange.cshtml.cs
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\areas\identity\pages\account\confirmemailchange.cshtml.cs
+++ExternalLogin.cshtml.cs
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\areas\identity\pages\account\externallogin.cshtml.cs
+++ForgotPassword.cshtml.cs
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\areas\identity\pages\account\forgotpassword.cshtml.cs
+++ForgotPasswordConfirmation.cshtml.cs
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\areas\identity\pages\account\forgotpasswordconfirmation.cshtml.cs
+++Lockout.cshtml.cs
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\areas\identity\pages\account\lockout.cshtml.cs
+++Login.cshtml.cs
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\areas\identity\pages\account\login.cshtml.cs
+++LoginWith2fa.cshtml.cs
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\areas\identity\pages\account\loginwith2fa.cshtml.cs
+++LoginWithRecoveryCode.cshtml.cs
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\areas\identity\pages\account\loginwithrecoverycode.cshtml.cs
+++Logout.cshtml.cs
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\areas\identity\pages\account\logout.cshtml.cs
+++Register.cshtml.cs
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\areas\identity\pages\account\register.cshtml.cs
+++RegisterConfirmation.cshtml.cs
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\areas\identity\pages\account\registerconfirmation.cshtml.cs
+++ResendEmailConfirmation.cshtml.cs
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\areas\identity\pages\account\resendemailconfirmation.cshtml.cs
+++ResetPassword.cshtml.cs
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\areas\identity\pages\account\resetpassword.cshtml.cs
+++ResetPasswordConfirmation.cshtml.cs
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\areas\identity\pages\account\resetpasswordconfirmation.cshtml.cs
+++Error.cshtml.cs
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\areas\identity\pages\error.cshtml.cs
+++_Layout.cshtml.css
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\views\shared\_layout.cshtml.css
+++appsettings.Development.json
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\appsettings.development.json
+++Microsoft.AspNetCore.Analyzers
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.Internal.SourceGenerator.Transport
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++Microsoft.AspNetCore.App
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\microsoft.aspnetcore.app
+++Microsoft.AspNetCore.Identity.UI (6.0.0)
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:>1453
+++serviceDependencies.local.json
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\properties\servicedependencies.local.json
+++58c5bc82-7d10-4369-9d12-0352b0eb6cb7.jpg
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\wwwroot\images\products\58c5bc82-7d10-4369-9d12-0352b0eb6cb7.jpg
+++89e0412d-e976-4972-8fd6-5d455817df49.jpg
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\wwwroot\images\products\89e0412d-e976-4972-8fd6-5d455817df49.jpg
+++9cca15e3-967e-4b60-841b-141780ab3ac4.jpg
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\wwwroot\images\products\9cca15e3-967e-4b60-841b-141780ab3ac4.jpg
+++c4176994-deed-4276-8f93-5f0fb172b843.jpg
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\wwwroot\images\products\c4176994-deed-4276-8f93-5f0fb172b843.jpg
+++d55db691-3fa4-4f6d-92d8-3abd07c1dfdc.jpg
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\wwwroot\images\products\d55db691-3fa4-4f6d-92d8-3abd07c1dfdc.jpg
+++dist
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\wwwroot\lib\bootstrap\dist\
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\wwwroot\lib\jquery\dist\
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\wwwroot\lib\jquery-validation\dist\
+++LICENSE
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\wwwroot\lib\bootstrap\license
+++LICENSE.txt
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\wwwroot\lib\jquery\license.txt
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++LICENSE.md
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++Create.cshtml
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\areas\admin\views\category\create.cshtml
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\areas\admin\views\covertype\create.cshtml
+++Edit.cshtml
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\areas\admin\views\category\edit.cshtml
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\areas\admin\views\covertype\edit.cshtml
+++Remove.cshtml
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\areas\admin\views\category\remove.cshtml
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\areas\admin\views\covertype\remove.cshtml
+++Upsert.cshtml
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\areas\admin\views\product\upsert.cshtml
+++HomeController.cs
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\areas\customer\controllers\homecontroller.cs
+++Home
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\areas\customer\views\home\
+++jquery.js
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\wwwroot\lib\jquery\dist\jquery.js
+++additional-methods.js
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++jquery.validate.js
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.unobtrusive.min.js
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++Details.cshtml
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\areas\customer\views\home\details.cshtml
+++Privacy.cshtml
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\areas\customer\views\home\privacy.cshtml
+++bootstrap.css
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++bootstrap-grid.css
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-reboot.css
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap-utilities.css
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+++bootstrap.js
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++jquery.min.js
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\wwwroot\lib\jquery\dist\jquery.min.js
+++additional-methods.min.js
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.min.js
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++bootstrap.css.map
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap.min.css
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+++bootstrap.rtl.css
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+++bootstrap-grid.css.map
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-grid.rtl.css
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+++bootstrap-reboot.css.map
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++bootstrap-reboot.rtl.css
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+++bootstrap-utilities.css.map
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+++bootstrap-utilities.min.css
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+++bootstrap-utilities.rtl.css
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+++bootstrap.bundle.js
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.esm.js
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+++bootstrap.js.map
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++bootstrap.min.js
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+++jquery.min.map
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\wwwroot\lib\jquery\dist\jquery.min.map
+++bootstrap.min.css.map
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap.rtl.css.map
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+++bootstrap.rtl.min.css
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+++bootstrap-grid.min.css.map
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-grid.rtl.css.map
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+++bootstrap-grid.rtl.min.css
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+++bootstrap-reboot.min.css.map
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap-reboot.rtl.css.map
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+++bootstrap-reboot.rtl.min.css
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+++bootstrap-utilities.min.css.map
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+++bootstrap-utilities.rtl.css.map
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+++bootstrap-utilities.rtl.min.css
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+++bootstrap.bundle.js.map
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.esm.js.map
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+++bootstrap.esm.min.js
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+++bootstrap.min.js.map
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++bootstrap.rtl.min.css.map
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+++bootstrap-grid.rtl.min.css.map
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+++bootstrap-reboot.rtl.min.css.map
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+++bootstrap-utilities.rtl.min.css.map
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+++bootstrap.bundle.min.js.map
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+++bootstrap.esm.min.js.map
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:g:\study\learning\asp.net\udemy course\nandanlocal\bulkeybook-master\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+++Microsoft.Extensions.Identity.Core (6.0.0)
+i:{25f78959-a91c-4877-9020-30bdac06790e}:>2293
+i:{4049d552-20ee-4870-84fa-a1683b81eaf3}:>2294
+i:{4aee1f09-28f7-4a8b-9bca-78ef96f8e3df}:>2295
+i:{cbb2644c-3648-4bc7-924e-32da15b771fa}:>2296
